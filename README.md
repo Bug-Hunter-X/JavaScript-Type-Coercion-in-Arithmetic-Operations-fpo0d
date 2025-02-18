@@ -1,0 +1,1 @@
+This example showcases a common error in JavaScript stemming from its dynamic typing system.  The `foo` function performs addition, but the results vary depending on the input types.  The solution demonstrates how to improve the function by using stricter type checking or converting inputs to ensure consistent behavior.
